@@ -1,4 +1,4 @@
-# Triagem-_para_COVID_Prolog
+# Triagem para COVID em Prolog
 
 " Cenário -
 Você está auxiliando a Secretaria da Saúde de seu município na iniciativa de triar os pacientes (possivelmente) SARS-COVID-19+. Para isso, a equipe médica encaminhou dados que solicitam aos pacientes, com critérios de gravidade.
